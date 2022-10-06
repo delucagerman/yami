@@ -5,6 +5,9 @@ import Slider from '../components/Slider';
 import { SliderData } from '../components/SilderData';
 import Instagram from '../components/Instagram';
 
+
+
+
 export default function Home() {
 	return (
 		<div>

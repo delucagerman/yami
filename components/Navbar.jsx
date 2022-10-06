@@ -43,10 +43,10 @@ const Navbar = () => {
 						<Link href="/#gallery">Galeria</Link>
 					</li>
 					<li className="p-4">
-						<Link href="/portfolio">Trabajo</Link>
+						<Link href="/trabajo">Trabajo</Link>
 					</li>
 					<li className="p-4">
-						<Link href="/contact">Contacto</Link>
+						<Link href="/contacto">Contacto</Link>
 					</li>
 				</ul>
 
