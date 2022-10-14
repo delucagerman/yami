@@ -42,7 +42,7 @@ const Slider = ({ slides }) => {
 									alt="/"
 									width="1440px"
 									height="600px"
-									objetFit="cover"
+									objetfit="cover"
 								/>
 							)}
 							<FaArrowCircleRight

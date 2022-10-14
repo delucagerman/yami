@@ -68,17 +68,17 @@ const Navbar = () => {
 					}
 				>
 					<ul>
-						<li className="p-4 text-4xl hover:text-gray-500">
+						<li onClick={handleNav} className="p-4 text-4xl hover:text-gray-500">
 							<Link href="/">Inicio</Link>
 						</li>
-						<li className="p-4 text-4xl hover:text-gray-500">
+						<li onClick={handleNav} className="p-4 text-4xl hover:text-gray-500">
 							<Link href="/#gallery">Galeria</Link>
 						</li>
-						<li className="p-4 text-4xl hover:text-gray-500">
-							<Link href="/portfolio">Trabajo</Link>
+						<li onClick={handleNav} className="p-4 text-4xl hover:text-gray-500">
+							<Link href="/trabajo">Trabajo</Link>
 						</li>
-						<li className="p-4 text-4xl hover:text-gray-500">
-							<Link href="/contact">Contacto</Link>
+						<li onClick={handleNav} className="p-4 text-4xl hover:text-gray-500">
+							<Link href="/contacto">Contacto</Link>
 						</li>
 					</ul>
 				</div>
