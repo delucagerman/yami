@@ -7,6 +7,10 @@ html {
 	font-family: 'Raleway', sans-serif;
 }
 
+/* .custom-image { */
+/* 	background-image: url('https://images.unsplash.com/photo-1593810451137-5dc55105dace?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80'); */
+/* } */
+
 .custom-image {
-	background-image: url('https://images.unsplash.com/photo-1593810451137-5dc55105dace?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80');
+    background-image: url('../public/masajes1.jpeg')
 }
